@@ -32,7 +32,8 @@ git clone https://github.com/YOUR_USERNAME/TodoTask.git
 cd TodoTask
 
 
-2. Backend Setup- in terminal
+### 2. Backend Setup
+--in terminal
 cd server
 npm install
 Create a .env file in server/ with the following:
@@ -41,8 +42,8 @@ MONGO_URI=your_mongodb_connection_string
 Run backend server: in terminal
 node index.js
 
-3. Frontend Setup
-
+### 3. Frontend Setup
+in terminal
 cd ../client
 npm install
 npm start
