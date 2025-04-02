@@ -49,5 +49,5 @@ todo-mern-app/ ├── client/ # React frontend │ ├── src/ │ │ ├
 - npm start
 
 
-App will run on http://localhost:3000
-Backend runs on http://localhost:5000
+- App will run on http://localhost:3000
+- Backend runs on http://localhost:5000
