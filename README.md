@@ -28,25 +28,25 @@ todo-mern-app/ ├── client/ # React frontend │ ├── src/ │ │ ├
 
 ### 1. Clone the repository
 ----in terminal 
-git clone https://github.com/YOUR_USERNAME/TodoTask.git
-cd TodoTask
+- git clone https://github.com/YOUR_USERNAME/TodoTask.git
+- cd TodoTask
 
 
 ### 2. Backend Setup
---in terminal
-cd server
-npm install
-Create a .env file in server/ with the following:
+- in terminal
+- cd server
+- npm install
+- Create a .env file in server/ with the following:
 
-MONGO_URI=your_mongodb_connection_string
-Run backend server: in terminal
-node index.js
+- MONGO_URI=your_mongodb_connection_string
+- Run backend server: in terminal
+- node index.js
 
 ### 3. Frontend Setup
-in terminal
-cd ../client
-npm install
-npm start
+- in terminal
+- cd ../client
+- npm install
+- npm start
 
 
 App will run on http://localhost:3000
